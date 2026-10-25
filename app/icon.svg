@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="icon-title">
+  <title id="icon-title">The Style Edit</title>
+  <rect width="160" height="160" fill="#f7f1e6"/>
+  <path d="M80 24c-31 21-50 46-50 73 0 24 20 40 50 40s50-16 50-40c0-27-19-52-50-73Z" fill="none" stroke="#2d221b" stroke-width="3"/>
+  <path d="M80 42v78" stroke="#2d221b" stroke-width="3"/>
+  <path d="M80 76c-17-1-30-10-37-24 18-3 32 6 37 24Zm0 25c17-1 30-10 37-24-18-3-32 6-37 24Z" fill="#a98055"/>
+</svg>

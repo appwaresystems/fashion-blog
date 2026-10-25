@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="mark-title">
+  <title id="mark-title">The Style Edit monogram</title>
+  <rect width="160" height="160" fill="#f7f1e6"/>
+  <path d="M80 26c-30 20-48 44-48 70 0 23 19 38 48 38s48-15 48-38c0-26-18-50-48-70Z" fill="none" stroke="#2d221b" stroke-width="2"/>
+  <path d="M80 42v76" stroke="#2d221b" stroke-width="2"/>
+  <path d="M80 75c-16-1-28-9-35-22 17-3 30 5 35 22Zm0 24c16-1 28-9 35-22-17-3-30 5-35 22Z" fill="#a98055"/>
+</svg>
